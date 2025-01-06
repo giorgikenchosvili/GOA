@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table with Spanning</title>
+    <style>
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 18px;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Header</th>
+            <th>Header</th>
+            <th>Header</th>
+            <th>Header</th>
+        </tr>
+        <tr>
+            <td rowspan="3">You can span down.</td>
+            <td colspan="3">You can span across.</td>
+        </tr>
+        <tr>
+            <td>It's like a puzzle.</td>
+            <td rowspan="2">That way.<br>Where am I?</td>
+            <td rowspan="3">Over here.</td>
+        </tr>
+        <tr>
+            <td>This way.</td>
+        </tr>
+    </table>
+</body>
+</html>
