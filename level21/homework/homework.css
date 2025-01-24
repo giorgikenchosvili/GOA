@@ -1,0 +1,91 @@
+#messi{
+    color: red;
+    text-align: center;
+
+}
+
+
+h1{
+    color:rgb(0, 168, 247);
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+}
+
+
+#music{
+    color: blanchedalmond;
+}
+
+
+#dasi{
+    color: aqua;
+}
+
+
+#movie{
+    color: brown;
+}
+
+#joke{
+    color: chartreuse;
+}
+
+.hope{
+    color:red;
+    text-align: right;
+}
+
+.gg{
+    background-color: blue;
+    width: 250px;
+    border-radius:0cqmin;
+    border-style: dashed;
+}
+
+.joke{
+    background-color: aqua;
+    border-radius: 0cqb;
+    border-style:dotted;
+}
+
+.haha{
+    background-color: rgb(255, 0, 0);
+    border-radius: 0cqb;
+    border-style:groove;
+}
+
+.lol{
+    background-color: rgb(21, 255, 0);
+    border-radius: 0cqb;
+    border-style:initial;
+}
+
+.come{
+    background-color: rgb(255, 208, 0);
+    border-radius:0cqmax;
+    border-style:outset;
+}
+
+
+div{
+    text-align: center;
+}
+
+div p{
+    color: blue;
+    box-shadow:0cqb;
+}
+
+div h3{
+    color: brown;
+    box-shadow: 0cqi;
+}
+
+div h1{
+    color: red;
+    box-shadow:0cap;
+}

@@ -1,0 +1,11 @@
+/* მშობლის ფონი */
+button {
+    background-color: red;
+}
+
+/* შვილის ფონი */
+button p {
+    background-color: green;
+}
+
+
